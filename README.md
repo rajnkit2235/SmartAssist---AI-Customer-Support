@@ -146,6 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Multi-platform integrations
 - [ ] Custom AI training options
 - [ ] White-label solutions
+- [ ] docker-compose up -d
 
 ## 📊 Browser Support
 
