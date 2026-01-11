@@ -2,9 +2,7 @@ version: '3.8'
 
 services:
   web:
-    build: .
-    image: rajankit6203/smartassist-ai-customer-support:latest
-    container_name: smartassist
+    image: rajankit6203/smartassist-app:latest
     ports:
       - "8002:80"
     restart: always
